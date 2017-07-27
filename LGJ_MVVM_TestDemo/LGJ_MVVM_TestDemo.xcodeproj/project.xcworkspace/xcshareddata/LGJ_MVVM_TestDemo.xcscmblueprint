@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6CD2479674020119E1D9C01683C613685BE4E7ED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EC89FBACF535F0981979E1D6BBC368840FB614F2" : 9223372036854775807,
+    "6CD2479674020119E1D9C01683C613685BE4E7ED" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3D04084D-1188-45A2-96BC-390E26E5172A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EC89FBACF535F0981979E1D6BBC368840FB614F2" : "",
+    "6CD2479674020119E1D9C01683C613685BE4E7ED" : "LGJ_MVVM_TestDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LGJ_MVVM_TestDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LGJ_MVVM_TestDemo\/LGJ_MVVM_TestDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/irembeu\/LGJ_MVVM_TestDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6CD2479674020119E1D9C01683C613685BE4E7ED"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iOSJason\/AnimationTabBarItemSwiftDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EC89FBACF535F0981979E1D6BBC368840FB614F2"
+    }
+  ]
+}
